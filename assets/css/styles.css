@@ -517,6 +517,7 @@ width: 50%;
   padding: 1rem;
   border: radius 1rem;;
   border: 1.5px ;
+  border-radius: .5rem;
   outline: none;
   margin-bottom: var(--mb-4);
   background: rgb(185, 185, 185);
