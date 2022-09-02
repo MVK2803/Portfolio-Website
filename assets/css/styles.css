@@ -454,8 +454,8 @@ body[light-mode="dark"] .light-mode-button span:nth-child(2) {
 
 .skills__bar {
   position: absolute;
-  left: 0;
-  bottom: 0;
+  left: 18px;
+  bottom: 4px;
   background-color: var(--first-color);
   height: .25rem;
   border-radius: .5rem;
