@@ -462,7 +462,7 @@ body[light-mode="dark"] .light-mode-button span:nth-child(2) {
 }
 
 .skills__html {
-  width: 95%;
+  width: 90%;
 }
 .skills__kotlin{
 width: 75%;
@@ -478,16 +478,12 @@ width: 50%;
 }
 
 .skills__c {
-  width: 85%;
+  width: 90%;
 }
 
-.skills__cpp {
-  width: 65%;
-}
 
-.skills__java {
-  width: 75%;
-}
+
+
 .skills__pp {
   width: 85%;
 }
