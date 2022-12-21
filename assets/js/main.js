@@ -56,9 +56,9 @@ sr.reveal('.home__social-icon',{ interval: 200});
 sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200}); 
 
 var _CONTENT = [ 
-	"Coder", 
-	"Web Designer", 
-	"App Designer"
+	"Programmer", 
+	"Web Developer", 
+	"Problem Solver"
 ];
 
 // Current sentence being processed
